@@ -74,3 +74,12 @@ h2{
     box-shadow: 0 0 15px #000000;
 }
 
+@media screen and (min-width 400px) {
+    header{
+        background-color: #6e6c6c;
+        color: #ffffff;
+        align-items: center;
+        position: sticky;
+        width: 100vw;
+    }
+}
